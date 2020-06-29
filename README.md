@@ -19,7 +19,7 @@ If the book is returned after the calendar year in which it was expected, there 
 Charges are based only on the least precise measure of lateness. For example, whether a book is due January 1, 2017 or December 31, 2017, if it is returned January 1, 2018, that is a year late and the fine would be 10000 Hackos
 . 
 
-##Solution
+## Solution
 
 We first create some placeholder variable for our fine fees and difference for days months and years.
 
